@@ -1,0 +1,28 @@
+/* Style the home header */
+.home-header {
+    background-image: url('https://www.frontiersin.org/files/Articles/895287/fspas-09-895287-HTML/image_m/fspas-09-895287-g001.jpg'); /* Replace with your header background image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 100px 0;
+    color: #fff;
+}
+
+/* Style the header content */
+.header-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Style the header title */
+.header-content h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+/* Style the header tagline */
+.header-content p {
+    font-size: 24px;
+    margin-bottom: 30px;
+}
